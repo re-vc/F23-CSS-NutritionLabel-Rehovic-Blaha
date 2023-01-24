@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+.container{
+    border: 1px solid black;
+    margin: 20px auto;
+    width: 400px;
+}
+
+
+
+.line1{
+    border: 4px solid black;
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
+.milk{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-left: 25px;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 25px;
+    
+}
+
+.calfromfat{
+    display: flex;
+    align-items: flex-end;
+}
+.container4{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: 25px;
+}
+.daily{
+    font-size:small;
+}
+
+.container5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+.container7{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 25px;
+}
+.container8{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container9{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container10{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container11{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container12{
+    display: flex;
+    flex-direction: row;
+}
+.container13{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container14{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container15{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container16{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
